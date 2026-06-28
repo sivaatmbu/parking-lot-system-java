@@ -50,4 +50,4 @@ ParkingLotSystem/
 
 ## 👨‍💻 Author
 
-**Siva Praneesh**
+**Siva Praneesh Velpula**
